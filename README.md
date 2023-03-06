@@ -4,7 +4,7 @@ My name is Aida Suswanto,
 
 Electrical Engineering UGM 2019
 
-&nbsp
+<br />
 
 Saya Aida Suswanto,
 
